@@ -1,3 +1,14 @@
 body {
     background-color: rgb(236, 238, 241);
 }
+
+#top {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+#top-text {
+    display: flex;
+    flex-direction: column;
+}
