@@ -41,6 +41,11 @@ h2 {
     font-size: 1rem;
 }
 
+#create-button {
+    height: 44px;
+    font-size: 1rem;
+}
+
 #logo {
     text-align: center;
     padding: 10px 0;
@@ -48,6 +53,7 @@ h2 {
 
 #product-links {
     text-align: center;
+    margin-bottom: 3px;
 }
 
 button {
@@ -65,6 +71,8 @@ form {
     background-color: rgb(255, 255, 255);
     padding: 30px;
     border-color: rgb(199, 199, 199);
+    border-style: solid;
+    border-width: 1px;
 }
 
 #form-header, #learn-more, p {
