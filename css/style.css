@@ -7,6 +7,10 @@ body {
     margin: 0;
 }
 
+a {
+    text-decoration: none;
+}
+
 h2 {
     font-weight: 500;
     margin-bottom: 0;
