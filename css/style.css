@@ -6,6 +6,11 @@ body {
     background-color: rgb(236, 238, 241);
 }
 
+h2 {
+    font-weight: 500;
+    margin-bottom: 0;
+}
+
 #top {
     display: flex;
     flex-direction: row;
@@ -48,4 +53,24 @@ form {
     height: 643px;
     width: 380px;
     margin: 0 auto;
+    background-color: rgb(255, 255, 255);
+    padding: 30px;
+    border-color: rgb(199, 199, 199);
+}
+
+#form-header, #learn-more, p {
+    text-align: center;
+}
+
+p {
+    margin-bottom: 0;
+}
+
+label {
+    padding-bottom: 6px;
+}
+
+.error {
+    margin: 5px 0;
+    min-height: 20px;
 }
