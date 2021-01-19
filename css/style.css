@@ -92,6 +92,10 @@ label {
     min-height: 20px;
 }
 
+#disclaimer {
+    font-style: italic;
+}
+
 footer {
     padding: 20px 0;
 }
